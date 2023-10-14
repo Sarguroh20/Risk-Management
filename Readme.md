@@ -12,7 +12,7 @@ I've created an AI agent using ILLA Cloud whose task is to explain all about ris
 
   ![Screenshot 2023-10-13 210433](https://github.com/illacloud/illa-builder/assets/116432233/a508704b-6c63-4ba5-b4f1-1afc5d9fccdc)
 
-  # 🚀 Try out link:
+  # 🚀 Try out link
   
   https://illa.ai/ai-agent/ILAex4p1C7WL/detail
 
